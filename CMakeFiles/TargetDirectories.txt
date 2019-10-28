@@ -1,0 +1,4 @@
+/home/dima/Рабочий стол/KPI/АК2/lab4/CMakeFiles/rebuild_cache.dir
+/home/dima/Рабочий стол/KPI/АК2/lab4/CMakeFiles/my_library.dir
+/home/dima/Рабочий стол/KPI/АК2/lab4/CMakeFiles/edit_cache.dir
+/home/dima/Рабочий стол/KPI/АК2/lab4/CMakeFiles/main.dir
